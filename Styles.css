@@ -14,7 +14,7 @@ body {
 /*HEADER, NAVIGATION
 */
 .headerpicture {
-  background-image: url("/home/umairrsyedd/Documents/Web_Development/Projects/Personal_Page/wood.jpeg");
+  background-image: url("./wood.jpeg");
   padding-bottom: 5px;
   padding-top: 5px;
 }
@@ -44,6 +44,7 @@ nav a {
   font-weight: lighter;
   border-top: 3px solid white;
   font-family: "Permanent Marker", cursive;
+  color: black;
 }
 .main-nav li {
   padding: 0 2%;
@@ -146,7 +147,7 @@ input[type=submit]:hover {
 /*FOOTER
 */
 .main-footer {
-  background-image: url("/home/umairrsyedd/Documents/Web_Development/Projects/Personal_Page/wood.jpeg");
+  background-image: url("wood.jpeg");
   margin:0;
   padding-bottom: 0.25em;
 }
